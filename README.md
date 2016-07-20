@@ -1,3 +1,7 @@
+#Git is Easy!
+## Git is Fun!
+### Thanks Linus!
+
 * Data Scientist's Toolbox
 
 * R Programming-
